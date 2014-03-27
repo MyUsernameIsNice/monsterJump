@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1395310847 source:c:\users\manu\documents\studium\tec\ene - mayo 14\graficas computacionales\proyecto\monsterjump\pantallaprincipalyconfig\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<SOIL.h>
+	<cstdio>
+
+976688572 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1395306256 c:\users\manu\documents\studium\tec\ene - mayo 14\graficas computacionales\proyecto\monsterjump\pantallaprincipalyconfig\include\soil.h
+

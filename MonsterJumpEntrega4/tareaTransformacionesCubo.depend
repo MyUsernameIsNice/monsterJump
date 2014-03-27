@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1395871241 source:c:\users\manu\documents\codeblocks projects\tareatransformacionescubo\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<cstdio>
+	<SOIL.h>
+
+976688572 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1395784703 c:\users\manu\documents\codeblocks projects\tareatransformacionescubo\include\soil.h
+
+1395870496 source:c:\users\manu\documents\codeblocks projects\tareatransformacionescubo\src\platform.cpp
+	"Platform.h"
+
+1395870408 c:\users\manu\documents\codeblocks projects\tareatransformacionescubo\include\platform.h
+
